@@ -1,12 +1,20 @@
 /*Estilos da página index.html*/
 
 body {
-    background-color: #192a56
+    background-color: #192a56;
+    
   }
+
+.borda {
+    background-color: bisque;
+
+}
+  
 
 h1{
     color:#dcdde1; 
     text-align: center;
+    
 }
 
 .center{
@@ -43,12 +51,14 @@ h1{
 display: inline;
 padding: 15px;
 text-decoration: none;
+background-color: black;
 }
 
 #menu li a{
     text-decoration: none; 
     font-size: 20px; 
     color: #dcdde1;
+    
 }
 
 
@@ -62,6 +72,10 @@ text-decoration: none;
 
 .mb-50{
     margin-bottom: 50px;
+}
+
+.centro-logo{
+    margin-left: 550px;
 }
 
 /*Estilos da página contato.html*/
